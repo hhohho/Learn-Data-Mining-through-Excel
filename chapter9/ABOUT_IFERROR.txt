@@ -1,0 +1,2 @@
+For this chapter's practice, I found out that the Excel function IFERROR is a better choice than ISERROR.
+So, there are two Excel files in which ISERROR is replaced with IFERROR.
